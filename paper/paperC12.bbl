@@ -1,0 +1,147 @@
+\begin{thebibliography}{21}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Beck et~al.(2026)Beck, Bar-Sinai, and Levi]{beck2026logit}
+Alon Beck, Yohai Bar-Sinai, and Noam Levi.
+\newblock The implicit bias of logit regularization.
+\newblock \emph{arXiv preprint arXiv:2602.12039}, 2026.
+
+\bibitem[Bi et~al.(2026)Bi, Zhang, Wang, and Calhoun]{bi2026finitesize}
+Yuda Bi, Chenyu Zhang, Qiheng Wang, and Vince~D. Calhoun.
+\newblock Grokking as a falsifiable finite-size transition.
+\newblock \emph{arXiv preprint arXiv:2603.24746}, 2026.
+
+\bibitem[Boursier et~al.(2025)Boursier, Pesme, and
+  Dragomir]{boursier2025framework}
+Etienne Boursier, Scott Pesme, and Radu-Alexandru Dragomir.
+\newblock A theoretical framework for grokking: Interpolation followed by
+  riemannian norm minimisation.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, 2025.
+\newblock arXiv:2505.20172.
+
+\bibitem[Clauw et~al.(2024)Clauw, Stramaglia, and
+  Marinazzo]{clauw2024infotheoretic}
+Kenzo Clauw, Sebastiano Stramaglia, and Daniele Marinazzo.
+\newblock Information-theoretic progress measures reveal grokking is an
+  emergent phase transition.
+\newblock \emph{arXiv preprint arXiv:2408.08944}, 2024.
+
+\bibitem[Guo et~al.(2017)Guo, Pleiss, Sun, and Weinberger]{guo2017calibration}
+Chuan Guo, Geoff Pleiss, Yu~Sun, and Kilian~Q. Weinberger.
+\newblock On calibration of modern neural networks.
+\newblock In \emph{Proceedings of the 34th International Conference on Machine
+  Learning (ICML)}, volume~70 of \emph{PMLR}, pages 1321--1330, 2017.
+
+\bibitem[Hutchison and Yevick(2025)]{hutchison2025ising}
+Karolina Hutchison and David Yevick.
+\newblock Grokking in the ising model.
+\newblock \emph{arXiv preprint arXiv:2510.25966}, 2025.
+
+\bibitem[Kumar et~al.(2024)Kumar, Bordelon, Gershman, and
+  Pehlevan]{kumar2024grokking}
+Tanishq Kumar, Blake Bordelon, Samuel~J Gershman, and Cengiz Pehlevan.
+\newblock Grokking as the transition from lazy to rich training dynamics.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2024.
+\newblock arXiv:2310.06110.
+
+\bibitem[Liu et~al.(2023)Liu, Michaud, and Tegmark]{liu2023omnigrok}
+Ziming Liu, Eric~J Michaud, and Max Tegmark.
+\newblock Omnigrok: Grokking beyond algorithmic data.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2023.
+\newblock arXiv:2210.01117.
+
+\bibitem[Lopatin et~al.(2025)Lopatin, Kozyrev, and Pechen]{lopatin2025predator}
+I.~A. Lopatin, S.~V. Kozyrev, and A.~N. Pechen.
+\newblock Predator-prey model: Driven hunt for accelerated grokking.
+\newblock \emph{arXiv preprint arXiv:2509.10562}, 2025.
+
+\bibitem[Lyu and Li(2020)]{lyu2020margin}
+Kaifeng Lyu and Jian Li.
+\newblock Gradient descent maximizes the margin of homogeneous neural networks.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2020.
+\newblock arXiv:1906.05890.
+
+\bibitem[Musat(2025)]{musat2025geometry}
+Tiberiu Musat.
+\newblock The geometry of grokking: Norm minimization on the zero-loss
+  manifold.
+\newblock \emph{arXiv preprint arXiv:2511.01938}, 2025.
+
+\bibitem[Nanda et~al.(2023)Nanda, Chan, Lieberum, Smith, and
+  Steinhardt]{nanda2023progress}
+Neel Nanda, Lawrence Chan, Tom Lieberum, Jess Smith, and Jacob Steinhardt.
+\newblock Progress measures for grokking via mechanistic interpretability.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2023.
+\newblock arXiv:2301.05217.
+
+\bibitem[Power et~al.(2022)Power, Burda, Edwards, Babuschkin, and
+  Misra]{power2022grokking}
+Alethea Power, Yuri Burda, Harri Edwards, Igor Babuschkin, and Vedant Misra.
+\newblock Grokking: Generalization beyond overfitting on small algorithmic
+  datasets.
+\newblock \emph{arXiv preprint arXiv:2201.02177}, 2022.
+
+\bibitem[Prieto et~al.(2025)Prieto, Barsbey, Mediano, and
+  Birdal]{prieto2025grokking}
+Lucas Prieto, Melih Barsbey, Pedro A.~M. Mediano, and Tolga Birdal.
+\newblock Grokking at the edge of numerical stability.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2025.
+\newblock arXiv:2501.04697.
+
+\bibitem[Rubin et~al.(2024)Rubin, Seroussi, and Ringel]{rubin2024firstorder}
+Noa Rubin, Inbar Seroussi, and Zohar Ringel.
+\newblock Grokking as a first order phase transition in two layer networks.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2024.
+\newblock arXiv:2310.03789.
+
+\bibitem[Thilak et~al.(2022)Thilak, Littwin, Zhai, Saremi, Paiss, and
+  Susskind]{thilak2022slingshot}
+Vimal Thilak, Etai Littwin, Shuangfei Zhai, Omid Saremi, Roni Paiss, and Joshua
+  Susskind.
+\newblock The slingshot mechanism: An empirical study of adaptive optimizers
+  and the grokking phenomenon.
+\newblock \emph{arXiv preprint arXiv:2206.04817}, 2022.
+
+\bibitem[Tikeng~Notsawo et~al.(2025)Tikeng~Notsawo, Dumas, and
+  Rabusseau]{notsawo2025beyond}
+Pascal~Jr Tikeng~Notsawo, Guillaume Dumas, and Guillaume Rabusseau.
+\newblock Grokking beyond the euclidean norm of model parameters.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, 2025.
+\newblock arXiv:2506.05718, PMLR 267:28552--28618.
+
+\bibitem[Varma et~al.(2023)Varma, Shah, Kenton, Kram{\'a}r, and
+  Kumar]{varma2023circuit}
+Vikrant Varma, Rohin Shah, Zachary Kenton, J{\'a}nos Kram{\'a}r, and Ramana
+  Kumar.
+\newblock Explaining grokking through circuit efficiency.
+\newblock \emph{arXiv preprint arXiv:2309.02390}, 2023.
+
+\bibitem[Wang(2026{\natexlab{a}})]{wang2026criticality}
+Ping Wang.
+\newblock Dimensional criticality at grokking across mlps and transformers.
+\newblock \emph{arXiv preprint arXiv:2604.16431}, 2026{\natexlab{a}}.
+
+\bibitem[Wang(2026{\natexlab{b}})]{wang2026dimensional}
+Ping Wang.
+\newblock Grokking as a dimensional phase transition in neural networks.
+\newblock \emph{arXiv preprint arXiv:2604.04655}, 2026{\natexlab{b}}.
+
+\bibitem[{\v Z}unkovi{\v c} and Ilievski(2024)]{zunkovic2024grokking}
+Bojan {\v Z}unkovi{\v c} and Enej Ilievski.
+\newblock Grokking phase transitions in learning local rules with gradient
+  descent.
+\newblock \emph{Journal of Machine Learning Research}, 25:\penalty0 1--52,
+  2024.
+
+\end{thebibliography}
